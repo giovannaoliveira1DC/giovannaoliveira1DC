@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Olá
+# Eu sou a Gi
 
-<!--
-**giovannaoliveira1DC/giovannaoliveira1DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+Javascript, HTML, CSS, PHP e Banco de dados 
+
+
+## 🚀 Sobre mim
+Estou cursando o ultimo ano do curso Tecnico de Desenvolvivemto de Sistemas, estou no terceiro ano de ensino médio.
+
+
+
